@@ -1,3 +1,2 @@
 # saltmarsh-elevation-analysis
-codes of my master dissertation
-haven't added codes on hypsometric curve
+codes of my master dissertation; haven't added codes on hypsometric curve.
